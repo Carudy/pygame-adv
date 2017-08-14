@@ -1,0 +1,11 @@
+*.pyc
+*.exe
+*.txt
+*.rar
+diags/
+font/
+item/
+music/
+pics/
+pub/
+sound/
